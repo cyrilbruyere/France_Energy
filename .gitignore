@@ -1,6 +1,5 @@
 # back-up JuPyTer files :
-.ipynb_checkpoints/
-exog/.ipynb_checkpoints/
+**/.ipynb_checkpoints
 
 # large files :
 dataset/ENERGIE.csv
