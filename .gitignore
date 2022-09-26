@@ -4,6 +4,3 @@
 # large files :
 dataset/ENERGIE.csv
 datasource/meteo_synop.csv
-
-# specific files :
-00-data_cleaning-cyril.ipynb
